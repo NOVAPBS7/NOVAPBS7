@@ -1,1 +1,1 @@
-![snake gif](https://github.com/NOVAPBS/NOVAPBS/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/NOVAPBS7/novapbs/blob/output/github-snake-dark.svg)
