@@ -1,5 +1,6 @@
+<!-- <div align="center">
+    <img src="https://github.com/NOVAPBS7/NOVAPBS7/blob/main/banner.jpeg?raw=true" alt="banner" width="100%" /> </br> </div> -->
 <div align="center">
-    <img src="https://github.com/NOVAPBS7/NOVAPBS7/blob/main/banner.jpeg?raw=true" alt="banner" width="100%" /> </br>
     <img src="https://raw.githubusercontent.com/NOVAPBS7/NOVAPBS7/c3e2fa63919974435b84b35103877e5ef46b787f/github-snake-dark.svg" alt="banner" width="100%" /> </br>
 </div>
 
