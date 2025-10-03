@@ -13,6 +13,6 @@
 
 ## 🌐 Currently learning
 <img src="https://img.shields.io/badge/Unreal_Engine-282C34?logo=unrealengine" width="22%"/> </br> 
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) <img src="https://img.shields.io/badge/-Blueprint-137CBD?style=flat&logo=blueprint&logoColor=white" width="111,3" />  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) <img src="https://img.shields.io/badge/-Blueprint-137CBD?style=flat&logo=blueprint&logoColor=white" width="111,3" />  ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
     </div>
 </div>
